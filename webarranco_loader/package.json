@@ -13,7 +13,6 @@
     ]
   ],
   "_from": "webarranco_loader@latest",
-  "_id": "webarranco_loader@1.0.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/webarranco_loader",
@@ -46,7 +45,6 @@
   "_where": "C:\\wamp\\www\\webarranco_packages",
   "author": "",
   "dependencies": {},
-  "description": "",
   "devDependencies": {},
   "directories": {},
   "dist": {
@@ -56,16 +54,13 @@
   "license": "ISC",
   "main": "loader.compiled.js",
   "maintainers": [
-    {
-      "email": "guillaume.barranco8@hotmail.fr",
-      "name": "webarranco"
-    }
+    "webarranco <guillaume.barranco8@hotmail.fr>"
   ],
   "name": "webarranco_loader",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.2",
+  "description": ""
 }
