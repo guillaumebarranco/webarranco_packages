@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      {
+        "name": "webarranco_loader",
+        "raw": "webarranco_loader",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\wamp\\www\\webarranco_packages"
+    ]
+  ],
+  "_from": "webarranco_loader@latest",
+  "_id": "webarranco_loader@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/webarranco_loader",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/webarranco_loader-1.0.1.tgz_1464597798978_0.16725545329973102"
+  },
+  "_npmUser": {
+    "email": "guillaume.barranco8@hotmail.fr",
+    "name": "webarranco"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "webarranco_loader",
+    "raw": "webarranco_loader",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/webarranco_loader/-/webarranco_loader-1.0.1.tgz",
+  "_shasum": "356741e620a6f134289dd06e0e4548c608cc5558",
+  "_shrinkwrap": null,
+  "_spec": "webarranco_loader",
+  "_where": "C:\\wamp\\www\\webarranco_packages",
+  "author": "",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "356741e620a6f134289dd06e0e4548c608cc5558",
+    "tarball": "https://registry.npmjs.org/webarranco_loader/-/webarranco_loader-1.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "loader.compiled.js",
+  "maintainers": [
+    {
+      "email": "guillaume.barranco8@hotmail.fr",
+      "name": "webarranco"
+    }
+  ],
+  "name": "webarranco_loader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
