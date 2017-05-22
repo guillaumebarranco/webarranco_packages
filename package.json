@@ -1,5 +1,5 @@
 {
-  "name": "Mia",
+  "name": "webarranco_packages",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guillaumebarranco/Mia.git"
+    "url": "git+https://github.com/guillaumebarranco/webarranco_packages.git"
   },
   "author": "guillaumebarranco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guillaumebarranco/Mia/issues"
+    "url": "https://github.com/guillaumebarranco/webarranco_packages/issues"
   },
-  "homepage": "https://github.com/guillaumebarranco/Mia#readme",
+  "homepage": "https://github.com/guillaumebarranco/webarranco_packages#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
